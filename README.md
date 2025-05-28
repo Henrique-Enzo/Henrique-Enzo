@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Henrique-Enzo
-- 👀 I’m interested in getting an internship as a programmer
-- 🌱 I’m currently learning C# / .NET programming language
-- 💞️ I’m looking to collaborate on with software development
-- 📫 my e-mail: henriquenzo.comercial@gmail.com
+👋 Olá! Sou o Henrique Enzo
+🎯 Busco uma oportunidade de estágio como programador
+💻 Tenho conhecimentos em C++, C#, Python, HTML, CSS e JavaScript
+📚 Atualmente curso o 3º período de Ciência da Computação no Centro Universitário Barão de Mauá
+🤝 Interesse em colaborar com projetos de desenvolvimento de software
+📬 E-mail para contato: henriquenzo.comercial@gmail.com
 
 <!---
 Henrique-Enzo/Henrique-Enzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
